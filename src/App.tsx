@@ -413,7 +413,7 @@ export default function App() {
                   <span className="text-purple-600 font-bold font-mono text-sm mb-4 block">ACTION 03</span>
                   <h3 className="font-display text-3xl md:text-5xl font-bold mb-6 italic tracking-tight">Early-Stage Relationships</h3>
                   <p className="text-zinc-600 text-lg leading-relaxed">
-                    I will organize 3 private events with top Berkeley talent—specifically Freshmen and Sophomores—to build relationships early.
+                    I will organize 3 private events with top Berkeley talent, specifically Freshmen and Sophomores, to build relationships early.
                   </p>
                   <p className="text-zinc-600 text-lg leading-relaxed mt-4">
                     The goal is for them to understand the EF vision and have us on top-of-mind long before they apply to competitors like YC. Personal relationships win investments.
